@@ -1,0 +1,3 @@
+[submodule "src/server-card"]
+	path = src/server-card
+	url = https://github.com/card-dungeon/server-card
